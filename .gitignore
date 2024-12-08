@@ -1,0 +1,36 @@
+# Згенеровані файли Visual Studio
+*.obj
+*.exe
+*.pch
+*.pdb
+*.ilk
+*.dll
+*.idb
+*.exp
+*.log
+
+# Папки збірки
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio специфічні файли
+.vscode/
+.vs/
+*.suo
+*.user
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+
+# Інші файли
+*.log
+*.tmp
+*.bak
+*.db
+*.opendb
